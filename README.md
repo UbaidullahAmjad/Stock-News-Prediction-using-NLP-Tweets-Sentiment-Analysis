@@ -39,7 +39,7 @@ Copy code
 # ... rest of the code ...
 
 # STEP 8: ASSESING THE TRAINING MODEL PERFORMANCE
-pred = model.predict(padded_test)
+![image](https://github.com/UbaidullahAmjad/Stock-News-Prediction-using-NLP-Tweets-Sentiment-Analysis/assets/119286827/4028d3b0-5f17-435b-8bb9-86f40fccfa0e)
 # ... rest of the code ...
 Please note that this code snippet is just a part of the complete project code and should be used in conjunction with the rest of the code.
 
