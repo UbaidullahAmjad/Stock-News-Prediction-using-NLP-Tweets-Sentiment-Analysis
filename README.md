@@ -1,8 +1,8 @@
-Stock Sentiment Analysis
+# Stock Sentiment Analysis
 This project focuses on performing sentiment analysis on stock-related data. The goal is to analyze the sentiment expressed in textual data related to stocks and predict the sentiment (positive or negative) associated with the text.
 
-Dependencies
-The project requires the following libraries to be installed:
+# Dependencies
+##The project requires the following libraries to be installed:
 
 wordcloud
 gensim
@@ -19,7 +19,7 @@ diff
 Copy code
 !pip install wordcloud gensim nltk numpy pandas seaborn tensorflow jupyterthemes sklearn
 Usage
-Install the required dependencies mentioned above.
+## Install the required dependencies mentioned above.
 Import the necessary libraries in your Python environment or Jupyter Notebook.
 Load the stock data using the provided CSV file.
 Perform data cleaning, including removing punctuations and stopwords.
