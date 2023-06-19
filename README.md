@@ -33,21 +33,8 @@ Example Code
 python
 Copy code
 # STEP 1: IMPORTING LIBRARIES
-!pip install wordcloud gensim nltk numpy pandas seaborn tensorflow jupyterthemes sklearn
+![image](https://github.com/UbaidullahAmjad/Stock-News-Prediction-using-NLP-Tweets-Sentiment-Analysis/assets/119286827/657118be-a6cf-46fa-9d16-3ba227e9963a)
 
-import pandas as pd
-import numpy as np
-import matplotlib.pyplot as plt
-import seaborn as sns
-from wordcloud import WordCloud, STOPWORDS
-import nltk
-import re
-from nltk.stem import PorterStemmer, WordNetLemmatizer
-from nltk.corpus import stopwords
-from nltk.tokenize import word_tokenize, sent_tokenize
-import gensim
-from gensim.utils import simple_preprocess
-from gensim.parsing.preprocessing import STOPWORDS
 
 # ... rest of the code ...
 
